@@ -21,3 +21,4 @@ contains the entire process of data processing and analysis, from data cleaning 
 <li>Data preparation: Download the required data files and make sure that the file path in Jupyter notebook matches the local storage path.</li>
 <li>Run Notebook: open Jupyter notebook and execute each cell in order, taking care to read the comments at each step to better understand the analysis process.</li>
 </ol>
+Also, I removed all geodata explore() output to reduce the notebook file size. Please feel free to use explore() in your own use.
