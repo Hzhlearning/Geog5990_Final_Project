@@ -1,4 +1,4 @@
-# Analysis of Disability Rates and PPFI Correlation
+# Analysis of Disability Rates and PPFI Correlation in Leeds
 ## Background and Context
 This project is dedicated to exploring the correlation between the Priority Places for Food Index (PPFI) and disability rates in Leeds, and to further understanding the distribution patterns of disability rates in different urban areas through cluster analysis.PPFI, as a measure of the distribution and accessibility of food resources in a city, is strongly correlated with the quality of life of disability groups. By analysing the relationship between PPFI and disability rates, we can identify possible inequalities in urban planning, thus providing a basis for more equitable and effective urban food policies.
 
